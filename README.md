@@ -1,5 +1,7 @@
 # termometroArduino
 
+![GitHub Logo](pic.jpg)
+
 **Funzionamento:**
 Il termometro monitora la temperatura circostante tramite un termistore.
 
